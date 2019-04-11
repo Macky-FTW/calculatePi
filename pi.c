@@ -3,7 +3,7 @@
 /* Pseudocode:
 BEGIN
 	integer countTotal = 0
-	integer countInside = 0
+	integer countInside = 0kjgfouhk
 	WHILE countTotal < A large number
 		x = random number between 0 and 1
 		y = random number between 0 and 1
